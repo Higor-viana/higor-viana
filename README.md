@@ -15,6 +15,6 @@
 <div>  
   <a href="https://www.linkedin.com/in/higor-viana-de-souza-704235247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](.github/workflows/main.yml)
+ ![Snake animation](https://github.com/Higor-viana/Higor-viana/blob/output/github-contribution-grid-snake.svg)
  
 </div>
