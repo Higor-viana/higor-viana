@@ -1,4 +1,4 @@
-## Olá eu sou o Higor Viana, estudante de Engenharia de Software
+## Olá me chamo Higor Viana, estudante de Engenharia de Software
 <div align="center">
   <a href="https://github.com/Higor-viana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=higor-viana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
