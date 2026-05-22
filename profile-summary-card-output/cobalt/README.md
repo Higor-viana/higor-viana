@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Higor-viana/higor-viana/main/profile-summary-card-output/cobalt/4-productive-time.svg)
+```
+
+    
